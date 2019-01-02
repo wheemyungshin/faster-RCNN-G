@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <folder>C:\Users\Administrator\Desktop\2018Graphene\Graphene Images</folder>
+   <filename>05172018 G chip7-000003.jpg</filename>
+   <size>
+      <width>512</width>
+      <height>512</height>
+      <depth>3</depth>
+   </size>
+   <object>
+      <name>Graphene</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>900</xmin>
+         <ymin>800</ymin>
+         <xmax>700</xmax>
+         <ymax>600</ymax>
+      </bndbox>
+   </object>
+</annotation>
